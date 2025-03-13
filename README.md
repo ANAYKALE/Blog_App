@@ -7,7 +7,7 @@ This is a full-stack eCommerce application built using the MERN Stack (MongoDB, 
 
 🏗️ System Architecture
 
- User-->Frontend(React.js);
+    User-->Frontend(React.js);
     Frontend-->|API Requests|Backend(Node.js & Express);
     Backend-->|Database Queries|Database(MongoDB);
     Backend-->|Authentication|JWT(Auth);
