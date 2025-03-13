@@ -17,20 +17,20 @@ This is a full-stack eCommerce application built using the MERN Stack (MongoDB, 
 
 🔹 Features
 
-  User Authentication (JWT-based Login & Signup)
-  Product Management (Add, Edit, Delete Products)
-  Shopping Cart & Checkout
-  Payment Integration (Stripe)
-  Order Management
-  Admin Dashboard
-  Responsive UI using React.js
+     User Authentication (JWT-based Login & Signup)
+     Product Management (Add, Edit, Delete Products)
+     Shopping Cart & Checkout
+     Payment Integration (Stripe)
+     Order Management
+     Admin Dashboard
+     Responsive UI using React.js
 
 🛠️ Tech Stack
 
-  Frontend: React.js, React Router, Context API/Redux, Axios
-  Backend: Node.js, Express.js, MongoDB, JWT Authentication
-  Database: MongoDB (Mongoose ORM)
-  Payment Integration: Stripe 
+     Frontend: React.js, React Router, Context API/Redux, Axios
+     Backend: Node.js, Express.js, MongoDB, JWT Authentication
+     Database: MongoDB (Mongoose ORM)
+     Payment Integration: Stripe 
 
   ![Image](https://github.com/user-attachments/assets/f62d5585-6b4b-421d-b4a6-e72a83798736)
 
