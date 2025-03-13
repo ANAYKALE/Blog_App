@@ -2,7 +2,8 @@
 
 This is a full-stack eCommerce application built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). It allows users to browse products, add them to the cart, make payments, and manage orders. The system includes user authentication, payment integration, and an admin panel for managing products.
 
-![Image](https://github.com/user-attachments/assets/f62d5585-6b4b-421d-b4a6-e72a83798736)
+ ![Image](https://github.com/user-attachments/assets/cfeb2eae-e469-4821-857b-a6ae29868aca)
+
 
 🏗️ System Architecture
 
@@ -30,6 +31,7 @@ This is a full-stack eCommerce application built using the MERN Stack (MongoDB, 
   Backend: Node.js, Express.js, MongoDB, JWT Authentication
   Database: MongoDB (Mongoose ORM)
   Payment Integration: Stripe 
-  
-  ![Image](https://github.com/user-attachments/assets/82e641d7-d88b-4d8d-8426-dee79c9b0ba3)
+
+  ![Image](https://github.com/user-attachments/assets/f62d5585-6b4b-421d-b4a6-e72a83798736)
+
   
